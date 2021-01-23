@@ -15,3 +15,7 @@ This code is only for education purpose.
 WRITE THIS IN YOUR IDE'S TERMINAL
 
 **Pip install selenium**
+
+**YOU CAN DOWNLOAD CHROME DRIVER FROME HERE👇**
+
+https://chromedriver.chromium.org/downloads
