@@ -12,10 +12,10 @@ This code is only for education purpose.
 
 **HOW TO INSTALL SELENIUM**
 
-WRITE THIS IN YOUR IDE'S TERMINAL
+WRITE THIS LINE IN YOUR IDE'S TERMINAL
 
 **Pip install selenium**
 
-**YOU CAN DOWNLOAD CHROME DRIVER FROME HERE👇**
+**YOU CAN DOWNLOAD CHROME DRIVER FROM HERE👇**
 
 https://chromedriver.chromium.org/downloads
